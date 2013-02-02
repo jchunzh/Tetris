@@ -91,6 +91,7 @@
     <ClInclude Include="Piece.h" />
     <ClInclude Include="PieceOrientationEnum.h" />
     <ClInclude Include="PieceTypeEnum.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="RotationEnum.h" />
     <ClInclude Include="Settings.h" />
   </ItemGroup>
@@ -98,11 +99,16 @@
     <None Include="Blue.png" />
     <None Include="Cyan.png" />
     <None Include="Green.png" />
+    <None Include="icon1.bmp" />
+    <None Include="icon1.ico" />
     <None Include="Magenta.png" />
     <None Include="Orange.png" />
     <None Include="Overlay.png" />
     <None Include="Red.png" />
     <None Include="Yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Tetris.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

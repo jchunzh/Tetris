@@ -63,6 +63,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_91CCB307C06C4EA081B80C9493C00175"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_9A31B4F215384B17AF9072F0596852CB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -288,6 +294,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_91CCB307C06C4EA081B80C9493C00175"
+            {
+            "SourcePath" = "8:..\\Tetris\\icon1.ico"
+            "TargetName" = "8:icon1.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_6C5753B422CE490486D7E3B52C5B0D63"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9A31B4F215384B17AF9072F0596852CB"
             {
             "SourcePath" = "8:..\\Tetris\\Magenta.png"
@@ -385,7 +411,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:TetrisInstaller"
         "ProductCode" = "8:{66ECA3E3-8A49-40DC-B2C3-12A58602F98C}"
-        "PackageCode" = "8:{CABF8405-AC41-4A83-A07A-D1662267D5D9}"
+        "PackageCode" = "8:{22BAD501-1454-4091-9C0F-D81CFA593977}"
         "UpgradeCode" = "8:{129A33CD-DCA8-42BC-9670-542BC39A2612}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -516,7 +542,7 @@
             "Target" = "8:_B55FA886A7064FA28699477D76405B6C"
             "Folder" = "8:_C0365ED364624409B48E231464F61C5E"
             "WorkingFolder" = "8:_6C5753B422CE490486D7E3B52C5B0D63"
-            "Icon" = "8:"
+            "Icon" = "8:_91CCB307C06C4EA081B80C9493C00175"
             "Feature" = "8:"
             }
         }
